@@ -26,6 +26,6 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://imgur.com/a/EWpyt7V)
+![](https://github.com/coltscott/flixster/blob/main/ezgif.com-gif-maker-3.gif)
 
 GIF created with ezGif
