@@ -26,6 +26,6 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/EWpyt7V' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='<blockquote class="imgur-embed-pub" lang="en" data-id="a/EWpyt7V" data-context="false" ><a href="//imgur.com/a/EWpyt7V"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ezGif
