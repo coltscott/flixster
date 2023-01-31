@@ -26,6 +26,6 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-!(image)[https://imgur.com/a/EWpyt7V]
+![image](https://imgur.com/a/EWpyt7V)
 https://imgur.com/a/EWpyt7V
 GIF created with ezGif
