@@ -23,4 +23,4 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![]https://github.com/coltscott/flixster/blob/main/ezgif.com-gif-maker-4.gif
+![](https://github.com/coltscott/flixster/blob/main/ezgif.com-gif-maker-4.gif)
